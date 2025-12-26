@@ -60,4 +60,4 @@ Com base na imagem de exemplo fornecida ("Lena"), o algoritmo gera os seguintes 
     
 ------
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Feito com muito esforço por [Rafael Costa Varela](https://github.com/RafaCVarela)
