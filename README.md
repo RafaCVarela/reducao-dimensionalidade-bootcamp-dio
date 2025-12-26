@@ -57,4 +57,7 @@ Com base na imagem de exemplo fornecida ("Lena"), o algoritmo gera os seguintes 
 </p>
 <br/><br/>
 <p>
+    
+------
 
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
